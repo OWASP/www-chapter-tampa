@@ -221,8 +221,3 @@ Presentation slides
 [Category:United States](Category:United_States "wikilink")
 [Category:Florida](Category:Florida "wikilink")
 
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-
