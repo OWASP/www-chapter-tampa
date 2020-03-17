@@ -217,7 +217,8 @@ Presentation slides
 Presentation slides
 [here](https://www.owasp.org/images/5/5b/GoogleCodeSearch.pdf)
 
+<!--
 [Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")
-[Category:Florida](Category:Florida "wikilink")
+[Category:Florida](Category:Florida "wikilink")-->
 
