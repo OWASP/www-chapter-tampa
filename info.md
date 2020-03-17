@@ -1,6 +1,6 @@
-<!--### Chapter Information
+### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Eventbrite OWASP Tampa Events](https://www.eventbrite.com/o/owasp-tampa-chapter-9422381181)
+* [Facebook](https://www.facebook.com/owasptampa/)
