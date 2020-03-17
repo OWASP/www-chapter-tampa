@@ -12,7 +12,7 @@ auto-migrated: 1
 ---
 
 
-<!-- Standard Chapter Page Template
+
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -51,4 +51,3 @@ This separate file is where you should place links to your Google Group and Meet
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
