@@ -30,10 +30,10 @@ Registration: <https://owasp-tampa-q2-ctf-si-2020.eventbrite.com>
 
 AGENDA:
 
-` Announcements`
-` Capture The Flag`
-` Food & Prizes`
-` Networking`
+- Announcements
+- Capture The Flag
+- Food & Prizes
+- Networking
 
 DESCRIPTION:  
 
