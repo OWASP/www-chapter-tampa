@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Tampa
-tags: example-tag
+<!- tags: example-tag -->
 level: 0
 
 region: United States
