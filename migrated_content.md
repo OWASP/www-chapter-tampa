@@ -13,7 +13,7 @@ region: United States
 
 Date:
 
-  - Tuesday, April 21, 2020
+  - Tuesday, September 8, 2020
 
 Time:
 
