@@ -5,7 +5,7 @@ title: OWASP Tampa
 <!- tags: example-tag -->
 level: 0
 
-region: United States
+region:  North America
 
 ---
 ## Next Meeting
