@@ -22,9 +22,9 @@ Time:
 Description:
 
   - CTF with Security Innovation
-  Twitter - @SecInnovation
-  LinkedIn – Security Innovation, Inc.
-  Facebook – Security Innovation
+  - Twitter - @SecInnovation
+  - LinkedIn – Security Innovation, Inc.
+  - Facebook – Security Innovation
 
 
 ## CMD+CTRL
