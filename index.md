@@ -22,9 +22,13 @@ Time:
 Description:
 
   - CTF with Security Innovation
+  Twitter - @SecInnovation
+  LinkedIn – Security Innovation, Inc.
+  Facebook – Security Innovation
 
-CMD+CTRL
-Web Application Cyber Range
+
+## CMD+CTRL
+## Web Application Cyber Range
 
 Want to test your skills in identifying web app vulnerabilities?  Join OWASP Tampa and South Florida chapters, along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet. 
 
