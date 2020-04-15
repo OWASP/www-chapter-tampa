@@ -12,32 +12,40 @@ region:  North America
 
 Date:
 
-  - Tuesday, September 8, 2020
+  - Wednesday, May 6, 2020
 
 Time:
 
-  - 6:00pm - 9:00pm
+  - 5:00pm - 8:00pm*
+  *range will stay open until 11:59pm on May 7th.
 
 Description:
 
   - CTF with Security Innovation
 
+CMD+CTRL
+Web Application Cyber Range
+
+Want to test your skills in identifying web app vulnerabilities?  Join OWASP Tampa and South Florida chapters, along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet. 
+
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs. 
+All you need is your laptop and inner evil-doer!
+Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
+
+Registration Page: https://web.securityinnovation.com/florida-owasp 
+
 Location:
 
-  - **The Undercroft** 1320 E 9th Ave #100, Tampa, FL 33605
+  - virtual
 
-Registration: <https://owasp-tampa-q2-ctf-si-2020.eventbrite.com>
+Registration: <https://web.securityinnovation.com/florida-owasp>
 
 AGENDA:
 
 - Announcements
 - Capture The Flag
-- Food & Prizes
-- Networking
+- Prizes
 
-DESCRIPTION:  
-
-Join us for Security Innovation's CTF\!
 
 
 ## Presentation Archives
