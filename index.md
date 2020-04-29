@@ -16,8 +16,9 @@ Date:
 
 Time:
 
-  - 5:00pm - 8:00pm*
-  *range will stay open until 11:59pm on May 7th.
+  - 5:00pm - 8:00pm "When the main CMD+CTRL Cyber Range will be open for prices." 
+
+  - Also the CMD+CTRL Cyber Range will stay open until May 7th 11:59pm but not prices will be awarded just for fun. 
 
 Description:
 
