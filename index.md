@@ -12,38 +12,36 @@ region:  North America
 
 Date:
 
-  - Wednesday, May 6, 2020
+  - Friday, July 17, 2020
 
 Time:
 
-  - 5:00pm - 8:00pm "When the main CMD+CTRL Cyber Range will be open for prices." 
+  - 4:30pm - 6:30pm 
 
-  - Also the CMD+CTRL Cyber Range will stay open until May 7th 11:59pm but not prices will be awarded just for fun. 
+  - Secure Coding CTF Tournament
 
 Description:
 
-  - CTF with Security Innovation
-  - Twitter - @SecInnovation
-  - LinkedIn – Security Innovation, Inc.
-  - Facebook – Security Innovation
+  - CTF with Secure Code Warrior
+  - Twitter - @SecCodeWarrior
+  - LinkedIn – https://www.linkedin.com/company/secure-code-warrior
+  - Facebook – https://www.facebook.com/securecodewarrior/
 
 
-## CMD+CTRL
-## Web Application Cyber Range
+## Secure Coding CTF Tournament
+## Capture the Flag for Developers/Pentesters
 
-Want to test your skills in identifying web app vulnerabilities?  Join OWASP Tampa and South Florida chapters, along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet. 
+Improve your secure coding skills by joining our live Secure Code Warrior tournament. The tournament allows you to compete against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability.
 
-For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs. 
-All you need is your laptop and inner evil-doer!
-Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
+All challenges are based on the OWASP Top 10, and players can choose to compete in a range of software languages including Java EE, Java Spring, C# MVC, C# WebForms, Go, Ruby on Rails, Python Django & Flask, Scala Play, Node.JS, React, and both iOS and Android development languages.
 
-Registration Page: https://web.securityinnovation.com/florida-owasp 
+Throughout the tournament, players earn points and watch as they climb to the top of the leaderboard. Prizes will be awarded to the top finishers! First place will receive a hoodie, and lots of bragging rights!
+
+Registration Page: TBD 
 
 Location:
 
   - virtual
-
-Registration: <https://web.securityinnovation.com/florida-owasp>
 
 AGENDA:
 
