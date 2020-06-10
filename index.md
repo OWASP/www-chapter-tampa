@@ -27,7 +27,7 @@ Description:
   - LinkedIn – https://www.linkedin.com/company/secure-code-warrior
   - Facebook – https://www.facebook.com/securecodewarrior/
 
-
+![](scw.png)
 ## Secure Coding CTF Tournament
 ## Capture the Flag for Developers/Pentesters
 
