@@ -28,6 +28,7 @@ Description:
   - Facebook – https://www.facebook.com/securecodewarrior/
 
 ![](scw.png)
+![](tournament.png)
 ## Secure Coding CTF Tournament
 ## Capture the Flag for Developers/Pentesters
 
@@ -37,7 +38,10 @@ All challenges are based on the OWASP Top 10, and players can choose to compete 
 
 Throughout the tournament, players earn points and watch as they climb to the top of the leaderboard. Prizes will be awarded to the top finishers! First place will receive a hoodie, and lots of bragging rights!
 
-Registration Page: TBD 
+Registration Page: https://discover.securecodewarrior.com/OWASPTampa-tournament.html 
+
+During the tournament, feel free to use the slack chananel: 
+https://join.slack.com/t/owasptampatournament/shared_invite/zt-f4n7e1qr-WD7VejbdKJCv6Bx94bXZqg
 
 Location:
 
