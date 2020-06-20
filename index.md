@@ -28,7 +28,7 @@ Description:
   - Facebook – https://www.facebook.com/securecodewarrior/
 
 ![](scw.png)
-![](tournament.png)
+![](/assets/images/tournament.png)
 ## Secure Coding CTF Tournament
 ## Capture the Flag for Developers/Pentesters
 
@@ -58,6 +58,8 @@ AGENDA:
 - Announcements
 - Capture The Flag
 - Prizes
+
+
 
 
 
