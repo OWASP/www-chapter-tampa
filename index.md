@@ -20,7 +20,8 @@ Time:
 
 **Description:** Understanding what types of IT assets your organization has and what those assets do on a day-to-day basis remains an elusive task for defenders, with cloud trends exacerbating an already ugly situation. This lack of asset visibility hinders security. Everything from the basics, like understanding alerts, to advanced, such as threat hunting. All of these security tasks need to be addressed in an automated way if organizations are going to keep up with potential threats.
 
-  - 
+![SOC](/assets/images/soc.jpg)
+
 ## Biography
 
 Alex Kirk is an open source security veteran, with a combined 17 years at Sourcefire, Cisco, Tenable, and now Corelight, where he serves as Global Principal for Suricata. Formerly a malware zookeeper and IDS signature writer, today he spends his time herding proverbial cats and advising on security policy for government agencies, universities, and large corporations around the world.
