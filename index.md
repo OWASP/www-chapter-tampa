@@ -12,7 +12,7 @@ region:  North America
 
 Date:
 
-  - Friday, April 9, 2021
+  - **Friday, April 9, 2021**
 
 Time:
 
