@@ -12,44 +12,32 @@ region:  North America
 
 Date:
 
-  - Wednesday, May 6, 2020
+  - Friday, April 9, 2021
 
 Time:
 
-  - 5:00pm - 8:00pm "When the main CMD+CTRL Cyber Range will be open for prices." 
+  - 11:30am - 1:00pm **"SOCs Can't Defend What They Don't Know About."** by **Alex Kirk**
 
-  - Also the CMD+CTRL Cyber Range will stay open until May 7th 11:59pm but not prices will be awarded just for fun. 
+**Description:** Understanding what types of IT assets your organization has and what those assets do on a day-to-day basis remains an elusive task for defenders, with cloud trends exacerbating an already ugly situation. This lack of asset visibility hinders security. Everything from the basics, like understanding alerts, to advanced, such as threat hunting. All of these security tasks need to be addressed in an automated way if organizations are going to keep up with potential threats.
 
-Description:
+  - 
+## Biography
 
-  - CTF with Security Innovation
-  - Twitter - @SecInnovation
-  - LinkedIn – Security Innovation, Inc.
-  - Facebook – Security Innovation
+Alex Kirk is an open source security veteran, with a combined 17 years at Sourcefire, Cisco, Tenable, and now Corelight, where he serves as Global Principal for Suricata. Formerly a malware zookeeper and IDS signature writer, today he spends his time herding proverbial cats and advising on security policy for government agencies, universities, and large corporations around the world.
 
-
-## CMD+CTRL
-## Web Application Cyber Range
-
-Want to test your skills in identifying web app vulnerabilities?  Join OWASP Tampa and South Florida chapters, along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet. 
-
-For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs. 
-All you need is your laptop and inner evil-doer!
-Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
-
-Registration Page: https://web.securityinnovation.com/florida-owasp 
+Registration Page: x
 
 Location:
 
   - virtual
 
-Registration: <https://web.securityinnovation.com/florida-owasp>
+Registration: x
 
 AGENDA:
 
 - Announcements
-- Capture The Flag
-- Prizes
+- Guest Speaker
+- Ajourn
 
 
 
