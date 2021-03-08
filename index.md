@@ -26,7 +26,7 @@ Time:
 
 Alex Kirk is an open source security veteran, with a combined 17 years at Sourcefire, Cisco, Tenable, and now Corelight, where he serves as Global Principal for Suricata. Formerly a malware zookeeper and IDS signature writer, today he spends his time herding proverbial cats and advising on security policy for government agencies, universities, and large corporations around the world.
 
-Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q2-speaker-event-2021-tickets-145084390317
+Registration Page: https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.com
 
 Location:
 
