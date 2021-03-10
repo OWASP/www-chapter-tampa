@@ -12,53 +12,32 @@ region:  North America
 
 Date:
 
-  - Friday, July 17, 2020
+  - **Friday, April 9, 2021**
 
 Time:
 
-  - 4:30pm - 6:30pm 
+  - 11:30am - 1:00pm **"SOCs Can't Defend What They Don't Know About."** by **Alex Kirk**
 
-  - Secure Coding CTF Tournament
+**Description:** Understanding what types of IT assets your organization has and what those assets do on a day-to-day basis remains an elusive task for defenders, with cloud trends exacerbating an already ugly situation. This lack of asset visibility hinders security. Everything from the basics, like understanding alerts, to advanced, such as threat hunting. All of these security tasks need to be addressed in an automated way if organizations are going to keep up with potential threats.
 
-Description:
+![SOC](/assets/images/soc.jpg)
 
-  - CTF with Secure Code Warrior
-  - Twitter - @SecCodeWarrior
-  - LinkedIn – https://www.linkedin.com/company/secure-code-warrior
-  - Facebook – https://www.facebook.com/securecodewarrior/
 
-Registration Page: (https://discover.securecodewarrior.com/OWASPTampa-tournament.html) 
-![](scw.png)
-![](/assets/images/tournament.png)
-## Secure Coding CTF Tournament
-## Capture the Flag for Developers/Pentesters
+## Biography
 
-Improve your secure coding skills by joining our live Secure Code Warrior tournament. The tournament allows you to compete against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability.
+Alex Kirk is an open source security veteran, with a combined 17 years at Sourcefire, Cisco, Tenable, and now Corelight, where he serves as Global Principal for Suricata. Formerly a malware zookeeper and IDS signature writer, today he spends his time herding proverbial cats and advising on security policy for government agencies, universities, and large corporations around the world.
 
-All challenges are based on the OWASP Top 10, and players can choose to compete in a range of software languages including Java EE, Java Spring, C# MVC, C# WebForms, Go, Ruby on Rails, Python Django & Flask, Scala Play, Node.JS, React, and both iOS and Android development languages.
-
-Throughout the tournament, players earn points and watch as they climb to the top of the leaderboard. Prizes will be awarded to the top finishers! First place will receive a hoodie, and lots of bragging rights!
-
-## Registration Page: (https://discover.securecodewarrior.com/OWASPTampa-tournament.html) 
-
-During the tournament, feel free to use the slack channel: 
-  (https://join.slack.com/t/owasptampatournament/shared_invite/zt-f4n7e1qr-WD7VejbdKJCv6Bx94bXZqg)
-
-Here are some helpful videos:
-- Tournament:  Step by Step - https://www.youtube.com/watch?v=0bPFS1tyNbM&t=57s
-- How Secure Coding Tournaments Work - https://www.youtube.com/results?search_query=secure+code+warrior+tournament
-- BBC/OWASP Tournament Overview - https://www.youtube.com/watch?v=xQJAl1m0_DE&t=20s
-
+Registration Page: https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.com
 
 Location:
 
-  - virtual
+  - virtual https://gpsec.zoom.us/j/99243628682?pwd=bW9MTUdEMUxhaTJ5dGJpa01DeTdBUT09
 
 AGENDA:
 
 - Announcements
-- Capture The Flag
-- Prizes
+- Guest Speaker
+- Ajourn
 
 
 
