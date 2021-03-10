@@ -31,7 +31,7 @@ Registration Page: https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.
 
 Location:
 
-  - virtual
+- Virtual link available through EventBrite
 
 AGENDA:
 
