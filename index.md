@@ -31,7 +31,7 @@ Registration Page: https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.
 
 Location:
 
-  - virtual https://gpsec.zoom.us/j/99243628682?pwd=bW9MTUdEMUxhaTJ5dGJpa01DeTdBUT09
+  - virtual (Link to be available 24 hours before event)
 
 AGENDA:
 
