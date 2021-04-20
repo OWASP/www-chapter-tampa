@@ -1,4 +1,5 @@
 ### Chapter Information
+* [OWASP Foundation Policies and Procedures](https://owasp.org/www-policy/)
 * Chapter Region
 
 ### Social Links
