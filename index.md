@@ -4,11 +4,13 @@ layout: col-sidebar
 title: OWASP Tampa
 <!- tags: example-tag -->
 level: 0
-
+meetup-group: owasp-tampa
 region:  North America
 
 ---
 ## Next Meeting
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Date:
 
