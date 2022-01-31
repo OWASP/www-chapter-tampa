@@ -14,26 +14,27 @@ region:  North America
 
 Date:
 
-  - **Friday, April 9, 2021**
+  - **Wednesday, March 2, 2022**
 
 Time:
 
-  - 11:30am - 1:00pm **"SOCs Can't Defend What They Don't Know About."** by **Alex Kirk**
+  - 11:45am - 1:15pm **"Why Automated DAST Scanners Suck Today."** by **Ray Kelly**
 
-**Description:** Understanding what types of IT assets your organization has and what those assets do on a day-to-day basis remains an elusive task for defenders, with cloud trends exacerbating an already ugly situation. This lack of asset visibility hinders security. Everything from the basics, like understanding alerts, to advanced, such as threat hunting. All of these security tasks need to be addressed in an automated way if organizations are going to keep up with potential threats.
+**Description:** Automated DAST scanners have been around for 20 years now, so why is it that we have so much trouble using them?  From numerous false positives, complicated configurations to scans that take days raging through single website, why is this still happening?   Many factors have changed in the past several years for businesses when it comes to the complexity of and number of assets that need to be scanned for security vulnerabilities.  How can these businesses meet compliance and regulation requirements when AppSec tools can’t do the job?   In this talk you will see the challenges of automated DAST scanners and why businesses are struggling to keep up with the ever expanding threat landscape when it comes to AppSec.
 
 ![SOC](/assets/images/soc.jpg)
 
 
 ## Biography
 
-Alex Kirk is an open source security veteran, with a combined 17 years at Sourcefire, Cisco, Tenable, and now Corelight, where he serves as Global Principal for Suricata. Formerly a malware zookeeper and IDS signature writer, today he spends his time herding proverbial cats and advising on security policy for government agencies, universities, and large corporations around the world.
+Ray Kelly is an internet security professional with over twenty five years of development experience, eighteen of which has focused on the internet security space. Ray has been a key player in multiple successfully acquired cyber security start-ups. He was the lead developer and business unit director for WebInspect with SPI Dynamics which is an industry leading application security scanner (later HP and Micro Focus).  Ray holds three web application scanning patents and speaks regularly at security conferences.  Today Ray is a Fellow at NTT AppSec where (formally WhiteHat) where he contributes to research, sales and vision of the security product line..
 
-Registration Page: [https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.com](https://owasp-tampa-chapter-q2-speaker-event-2021.eventbrite.com)
+Registration Page: [https://www.meetup.com/owasp-tampa/events/283218238/](https://www.meetup.com/owasp-tampa/events/283218238/
+)
 
 Location:
 
-- Virtual link available through EventBrite
+- Virtual link via Zoom; When you register for the event, you will receive Zoom link.
 
 AGENDA:
 
