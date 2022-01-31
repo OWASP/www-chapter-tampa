@@ -22,7 +22,7 @@ Time:
 
 **Description:** Automated DAST scanners have been around for 20 years now, so why is it that we have so much trouble using them?  From numerous false positives, complicated configurations to scans that take days raging through single website, why is this still happening?   Many factors have changed in the past several years for businesses when it comes to the complexity of and number of assets that need to be scanned for security vulnerabilities.  How can these businesses meet compliance and regulation requirements when AppSec tools can’t do the job?   In this talk you will see the challenges of automated DAST scanners and why businesses are struggling to keep up with the ever expanding threat landscape when it comes to AppSec.
 
-![SOC](/assets/images/soc.jpg)
+![SOC](/assets/images/code_analysis.jpg)
 
 
 ## Biography
