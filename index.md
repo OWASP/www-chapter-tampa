@@ -10,8 +10,6 @@ region:  North America
 ---
 ## Next Meeting
 
-{% include chapter_events.html group=page.meetup-group %}
-
 Date:
 
   - **Friday, February 24, 2023**
