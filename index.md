@@ -14,27 +14,33 @@ region:  North America
 
 Date:
 
-  - **Wednesday, March 2, 2022**
+  - **Friday, February 24, 2023**
+  
+Venue:
+  -**8th Floor, John P Lowth Entrepreneur Center, University of Tampa**
+  -**Public (non-student, free) Parking available directly across from the John P Lowth Entrepreneur Center**
 
 Time:
 
-  - 11:45am - 1:15pm **"Why Automated DAST Scanners Suck Today."** by **Ray Kelly**
+  - 11:30am - 1:00pm **"Build a Roadmap for Your Dream Career in Cybersecurity"** by **Joy Randels @joy_randels**
 
-**Description:** Automated DAST scanners have been around for 20 years now, so why is it that we have so much trouble using them?  From numerous false positives, complicated configurations to scans that take days raging through single website, why is this still happening?   Many factors have changed in the past several years for businesses when it comes to the complexity of and number of assets that need to be scanned for security vulnerabilities.  How can these businesses meet compliance and regulation requirements when AppSec tools can’t do the job?   In this talk you will see the challenges of automated DAST scanners and why businesses are struggling to keep up with the ever expanding threat landscape when it comes to AppSec.
-
-![SOC](/assets/images/code_analysis.jpg)
+**Description:** Don’t rely on luck or hope; create a strategy to navigate your path to your dream role in cyber.  Whether you want to lead the top NSA Red Team, build software to mitigate zero-day attacks, become a CISO, take a startup to IPO, or have a seat in the Boardroom, you need a plan. Beyond core skills getting that dream role requires the right mindset, specific communication skills, and growing your personal brand.
+![joy](/assets/images/joy_captures.png)
+![Dream Job](/assets/images/dream-job.jpg)
 
 
 ## Biography
 
-Ray Kelly is an internet security professional with over twenty five years of development experience, eighteen of which has focused on the internet security space. Ray has been a key player in multiple successfully acquired cyber security start-ups. He was the lead developer and business unit director for WebInspect with SPI Dynamics which is an industry leading application security scanner (later HP and Micro Focus).  Ray holds three web application scanning patents and speaks regularly at security conferences.  Today Ray is a Fellow at NTT AppSec where (formally WhiteHat) where he contributes to research, sales and vision of the security product line..
+Joy Randels is an Entrepreneur, current CEO of Prowess Group & New Market Partners, she's named Top 100 Female Speaker, Board Director and so much more in the Cybersecurity community! Joy was recently selected as one of only 54 of Florida’s most influential executives in the Finance & Insurance category and one of five in venture capital. 
 
-Registration Page: [https://www.meetup.com/owasp-tampa/events/283218238/](https://www.meetup.com/owasp-tampa/events/283218238/
-)
+Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q1-lunch-and-speaker-event-2023-tickets-510875942697
 
 Location:
 
-- Virtual link via Zoom; When you register for the event, you will receive Zoom link.
+- This is an in-person event only, no streaming available.
+- **8th Floor, John P Lowth Entrepreneur Center, University of Tampa**
+-**Public (non-student, free) Parking available directly across from the John P Lowth Entrepreneur Center**
+
 
 AGENDA:
 
