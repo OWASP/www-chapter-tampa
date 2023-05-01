@@ -34,7 +34,7 @@ Venue location is sponsored by Deepwatch (https://www.deepwatch.com/).
 ![shred skateboard](/assets/images/hacks_skateboard.png)
 ![si](/assets/images/si.png)
 ![bsi](/assets/images/bsi.png)
-![deepwatch](/assets/images/deepwatch.png)
+![deepwatch](/assets/images/deepwatch.jpg)
 
 
 
