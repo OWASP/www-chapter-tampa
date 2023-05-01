@@ -12,38 +12,49 @@ region:  North America
 
 Date:
 
-  - **Friday, February 24, 2023**
+  - **Friday, June 2, 2023**
   
 Venue:
-  -**8th Floor, John P Lowth Entrepreneur Center, University of Tampa**
-  -**Public (non-student, free) Parking available directly across from the John P Lowth Entrepreneur Center**
+  -**Deepwatch, 4030 West Boy Scout Boulevard #Suite 550 Tampa, FL 33607 United States**
+  -**Free Parking available**
 
 Time:
 
-  - 11:30am - 1:00pm **"Build a Roadmap for Your Dream Career in Cybersecurity"** by **Joy Randels @joy_randels**
+  - 11:30am - 3:00pm **"OWASP Tampa Chapter Q2 CTF/Lunch Event 2023"** by **Security Innovation, BSI,Inc., and Deepwatch**
 
-**Description:** Don’t rely on luck or hope; create a strategy to navigate your path to your dream role in cyber.  Whether you want to lead the top NSA Red Team, build software to mitigate zero-day attacks, become a CISO, take a startup to IPO, or have a seat in the Boardroom, you need a plan. Beyond core skills getting that dream role requires the right mindset, specific communication skills, and growing your personal brand.
-![joy](/assets/images/joy_captures.png)
-![Dream Job](/assets/images/dream-job.jpg)
+**Description:** CMD+CTRL Web Application Cyber Range by Security Innovation (https://www.securityinnovation.com/)
+
+Want to test your skills in identifying web app vulnerabilities? Join OWASP Tampa and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defense is all about thinking on your feet.
+
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.
+
+Lunch and "afternoon snacks while you hack" sponsored by Bayside Solutions, Inc. (BSI) (https://bsius.com/)
+
+Venue location is sponsored by Deepwatch (https://www.deepwatch.com/).
+![joy](/assets/images/hacks_skateboard.jpg)
 
 
-## Biography
 
-Joy Randels is an Entrepreneur, current CEO of Prowess Group & New Market Partners, she's named Top 100 Female Speaker, Board Director and so much more in the Cybersecurity community! Joy was recently selected as one of only 54 of Florida’s most influential executives in the Finance & Insurance category and one of five in venture capital. 
+## Agenda
+
+- Lunch sponsored by Bayside Solutions, Inc. 11:30 - 12:30 
+- CTF Begins at Noon by Security Innovation, venue by Deepwatch Noon - 3pm 
+- Afternoon snacks and sodas by Bayside Solutions, Inc. 1pm - 3pm
 
 Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q1-lunch-and-speaker-event-2023-tickets-510875942697
 
 Location:
 
 - This is an in-person event only, no streaming available.
-- **8th Floor, John P Lowth Entrepreneur Center, University of Tampa**
--**Public (non-student, free) Parking available directly across from the John P Lowth Entrepreneur Center**
+-**Deepwatch, 4030 West Boy Scout Boulevard #Suite 550 Tampa, FL 33607 United States**
+-**Free Parking available**
 
 
 AGENDA:
 
 - Announcements
-- Guest Speaker
+- Lunch
+- CTF
 - Ajourn
 
 
