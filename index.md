@@ -31,7 +31,7 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 Lunch and "afternoon snacks while you hack" sponsored by Bayside Solutions, Inc. (BSI) (https://bsius.com/)
 
 Venue location is sponsored by Deepwatch (https://www.deepwatch.com/).
-![joy](/assets/images/hacks_skateboard.jpg)
+![shred skateboard](/assets/images/hacks_skateboard.jpg)
 
 
 
