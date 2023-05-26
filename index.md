@@ -44,7 +44,7 @@ Venue location is sponsored by Deepwatch (https://www.deepwatch.com/).
 - CTF Begins at Noon by Security Innovation, venue by Deepwatch Noon - 3pm 
 - Afternoon snacks and sodas by Bayside Solutions, Inc. 1pm - 3pm
 
-Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q1-lunch-and-speaker-event-2023-tickets-510875942697
+Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q2-ctflunch-event-2023-tickets-628632184787
 
 Location:
 
