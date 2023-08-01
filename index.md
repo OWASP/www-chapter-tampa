@@ -12,44 +12,41 @@ region:  North America
 
 Date:
 
-  - **Friday, June 2, 2023**
+  - **Friday, August 25, 2023**
   
 Venue:
-  -**Deepwatch, 4030 West Boy Scout Boulevard #Suite 550 Tampa, FL 33607 United States**
+  -**GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607**
   -**Free Parking available**
 
 Time:
 
-  - 11:30am - 3:00pm **"OWASP Tampa Chapter Q2 CTF/Lunch Event 2023"** by **Security Innovation, BSI,Inc., and Deepwatch**
+  - 11:30am - 1:00pm **"OWASP Tampa Chapter Q3 Speaker Event 2023: Exploring the OWASP API Top 10 Attack Categories"** by **Andrew Jones and Salt Security**
 
 **Description:** CMD+CTRL Web Application Cyber Range by Security Innovation (https://www.securityinnovation.com/)
 
-Want to test your skills in identifying web app vulnerabilities? Join OWASP Tampa and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defense is all about thinking on your feet.
+The OWASP API Top 10 attack categories have recently been updated for 2023. This talk will focus on discussing some of those changes, examining the API threat landscape in general, and demonstrate some API attacks against a vulnerable web application.
 
-For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.
+Lunch sponsored by Salt Security ([https://bsius.com/](https://salt.security/))
 
-Lunch and "afternoon snacks while you hack" sponsored by Bayside Solutions, Inc. (BSI) (https://bsius.com/)
-
-Venue location is sponsored by Deepwatch (https://www.deepwatch.com/).
-![shred skateboard](/assets/images/hacks_skateboard.png)
-![si](/assets/images/si.png)
-![bsi](/assets/images/bsi.png)
-![deepwatch](/assets/images/deepwatch.jpg)
+Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecurity.com/]
+![ci_cd](/assets/images/lifespan.png)
+![api_top10](/assets/images/top10.png)
+![saltsecurity](/assets/images/saltsec.png)
+![guidepointsecurity](/assets/images/guidepointsecurity.png)
 
 
 
 ## Agenda
 
-- Lunch sponsored by Bayside Solutions, Inc. 11:30 - 12:30 
-- CTF Begins at Noon by Security Innovation, venue by Deepwatch Noon - 3pm 
-- Afternoon snacks and sodas by Bayside Solutions, Inc. 1pm - 3pm
+- Lunch sponsored by Salt Security, Inc. 11:30a - 12:00p 
+- Speaker Talk Noon - 1pm
 
-Registration Page: https://www.eventbrite.com/e/owasp-tampa-chapter-q2-ctflunch-event-2023-tickets-628632184787
+Registration Page: [https://www.eventbrite.com/e/owasp-tampa-chapter-q2-ctflunch-event-2023-tickets-628632184787](https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557)
 
 Location:
 
 - This is an in-person event only, no streaming available.
--**Deepwatch, 4030 West Boy Scout Boulevard #Suite 550 Tampa, FL 33607 United States**
+-**GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607**
 -**Free Parking available**
 
 
@@ -57,7 +54,7 @@ AGENDA:
 
 - Announcements
 - Lunch
-- CTF
+- Speaker
 - Ajourn
 
 
