@@ -26,7 +26,7 @@ Time:
 
 The OWASP API Top 10 attack categories have recently been updated for 2023. This talk will focus on discussing some of those changes, examining the API threat landscape in general, and demonstrate some API attacks against a vulnerable web application.
 
-Lunch sponsored by Salt Security ([https://bsius.com/](https://salt.security/))
+Lunch sponsored by Salt Security ([https://saltsecurity.com/](https://saltsecurity.com/))
 
 Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecurity.com/]
 ![ci_cd](/assets/images/lifespan.png)
@@ -41,7 +41,7 @@ Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecur
 - Lunch sponsored by Salt Security, Inc. 11:30a - 12:00p 
 - Speaker Talk Noon - 1pm
 
-Registration Page: [https://www.eventbrite.com/e/owasp-tampa-chapter-q2-ctflunch-event-2023-tickets-628632184787](https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557)
+Registration Page: [https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557](https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557)
 
 Location:
 
