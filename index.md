@@ -22,11 +22,11 @@ Time:
 
   - 11:30am - 1:00pm **"OWASP Tampa Chapter Q3 Speaker Event 2023: Exploring the OWASP API Top 10 Attack Categories"** by **Andrew Jones and Salt Security**
 
-**Description:** CMD+CTRL Web Application Cyber Range by Security Innovation (https://www.securityinnovation.com/)
+**Description:** OWASP API Top 10
 
 The OWASP API Top 10 attack categories have recently been updated for 2023. This talk will focus on discussing some of those changes, examining the API threat landscape in general, and demonstrate some API attacks against a vulnerable web application.
 
-Lunch sponsored by Salt Security ([https://saltsecurity.com/](https://saltsecurity.com/))
+Lunch sponsored by Salt Security [https://saltsecurity.com](https://salt.security/)/]
 
 Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecurity.com/]
 ![ci_cd](/assets/images/lifespan.png)
