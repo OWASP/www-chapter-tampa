@@ -26,7 +26,7 @@ Time:
 
 The OWASP API Top 10 attack categories have recently been updated for 2023. This talk will focus on discussing some of those changes, examining the API threat landscape in general, and demonstrate some API attacks against a vulnerable web application.
 
-Lunch sponsored by Salt Security [https://saltsecurity.com](https://salt.security/)/]
+Lunch sponsored by Salt Security [https://salt.security](https://salt.security/)/]
 
 Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecurity.com/]
 ![ci_cd](/assets/images/lifespan.png)
