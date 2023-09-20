@@ -5,6 +5,7 @@ title: OWASP Tampa
 <!- tags: example-tag -->
 level: 0
 meetup-group: owasp-tampa
+country: USA
 region:  North America
 
 ---
