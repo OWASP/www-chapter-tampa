@@ -10,56 +10,48 @@ region:  North America
 
 ---
 ## Next Meeting
+**"OWASP Tampa Chapter Q4 End of Year Minicon: The Future of Cybersecurity and Beyond"** 
+* by **Tampa Bay ISSA Chapter and OWASP Tampa Chapter**
 
 Date:
+![OWASP TAMPA](/assets/images/owasp_tpa_Q4.png)
 
-  - **Friday, August 25, 2023**
-  
-Venue:
-  -**GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607**
-  -**Free Parking available**
+**Date:**
+  - **Wednesday, December 6, 2023**
 
-Time:
+**Venue:**
+  * GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607**
+  * Free Parking available**
 
-  - 11:30am - 1:00pm **"OWASP Tampa Chapter Q3 Speaker Event 2023: Exploring the OWASP API Top 10 Attack Categories"** by **Andrew Jones and Salt Security**
+**Time:**
+  * 8:30am - 1:00pm 
 
-**Description:** OWASP API Top 10
+**Registration:**
+https://www.meetup.com/owasp-tampa/events/296916076/
 
-The OWASP API Top 10 attack categories have recently been updated for 2023. This talk will focus on discussing some of those changes, examining the API threat landscape in general, and demonstrate some API attacks against a vulnerable web application.
+**Description:** Welcome to our joint ISSA & OWASP End of Year Minicon!
+We invite you to join us and members of our local Tampa Bay community to hear from industry experts in cybersecurity. This half day minicon will bring topics that influence discussion among your peers and provide a venue to meet others that share your passions.
 
-Lunch sponsored by Salt Security [https://salt.security](https://salt.security/)]
+**Agenda:**
+* 8:30am - Registration
+* 9:00am - First Talk
+* 10:00am - Second Talk: Tony Cook, Sr. Dir, DFIR & Threat Intel
+* 11:00am - Third Talk: Jadee Hanson, CISO Code42
+* 12:00pm - Lunch
 
-Venue location is sponsored by GuidePoint Security ([https://www.guidepointsecurity.com/]
-![ci_cd](/assets/images/lifespan.png)
-![api_top10](/assets/images/top10.png)
-![saltsecurity](/assets/images/saltsec.jpg)
-![guidepointsecurity](/assets/images/guidepointsecurity.png)
+## Speakers
+**Tony Cook** is the Sr. Director of DFIR & Threat Intelligence on GuidePoint Security’s consulting team, where he manages digital forensics and incident response engagements on behalf of the firm’s clients. His career background includes high-level national security activities in cybersecurity operations for several clients over various verticals.
 
-
-
-## Agenda
-
-- Lunch sponsored by Salt Security, Inc. 11:30a - 12:00p 
-- Speaker Talk Noon - 1pm
-
-Registration Page: [https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557](https://www.eventbrite.com/e/owasp-tampa-chapter-q3-lunch-and-speaker-event-2023-tickets-689321297557)
-
-Location:
-
-- This is an in-person event only, no streaming available.
--**GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607**
--**Free Parking available**
+**Jadee Hanson** is the Chief Information Security Officer at Code42, where she is responsible for business technology strategy and purchasing, as well as leading global risk and compliance, security operations, incident response, and insider threat monitoring and investigations.
 
 
-AGENDA:
-
-- Announcements
-- Lunch
-- Speaker
-- Ajourn
+## Location
+* This is an in-person event only, no streaming available.
+* GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607
+* Free Parking available
 
 
-
+=============================================================================
 
 
 ## Presentation Archives
