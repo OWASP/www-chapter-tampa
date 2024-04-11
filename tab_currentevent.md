@@ -12,7 +12,7 @@ tags: chapter-tampa
 * by: **Qwiet.AI**
 
 
-![OWASP TAMPA](/assets/images/owaspTampa.jpeg)
+![OWASP TAMPA](/assets/image/owaspTampa.jpeg)
 
 **Date:**
   - **Thursday, February 22, 2024**
