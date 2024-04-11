@@ -1,47 +1,15 @@
 ---
-
-layout: col-sidebar
-title: OWASP Tampa
-tags: example-tag
-level: 0
-
-region: United States
-
-
+title: Pastevents
+displaytext: Past Events
+layout: null
+tab: true
+order: 2
+tags: chapter-tampa
 ---
-## Next Meeting
 
-Date:
+## Past Events and Presentation Archives
 
-  - Tuesday, September 8, 2020
-
-Time:
-
-  - 6:00pm - 9:00pm
-
-Description:
-
-  - CTF with Security Innovation
-
-Location:
-
-  - **The Undercroft** 1320 E 9th Ave #100, Tampa, FL 33605
-
-Registration: <https://owasp-tampa-q2-ctf-si-2020.eventbrite.com>
-
-AGENDA:
-
-` Announcements`
-` Capture The Flag`
-` Food & Prizes`
-` Networking`
-
-DESCRIPTION:  
-
-Join us for Security Innovation's CTF\!
-
-
-## Presentation Archives
+2023-Q4 - OWASP Tampa Chapter Q4 End of Year Minicon: The Future of Cybersecurity and Beyond - Sponsor - Tampa Bay ISSA Chapter and OWASP Tampa Chapter
 
 2019-Q1 - Application Security in an Ever Changing Digital Landscape -
 Trace Hollifield - Presentation Slides
@@ -218,6 +186,7 @@ Presentation slides
 Presentation slides
 [here](https://www.owasp.org/images/5/5b/GoogleCodeSearch.pdf)
 
+<!--
 [Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")
-[Category:Florida](Category:Florida "wikilink")
+[Category:Florida](Category:Florida "wikilink")-->
