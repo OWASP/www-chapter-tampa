@@ -4,7 +4,8 @@ layout: col-sidebar
 title: OWASP Tampa
 tags: chapter-tampa
 level: 0
-region:  North America
+region: North America
+country: USA
 meetup-group: owasp-tampa
 
 ---
