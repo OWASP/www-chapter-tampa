@@ -9,6 +9,8 @@ tags: chapter-tampa
 
 ## Past Events and Presentation Archives
 
+2024-Q1 - OWASP Tampa Chapter 2024-Q1 Lunch and Learn:  Appsec in an AI-powered world - Sponsor - Qwiet.AI and OWASP Tampa Chapter
+
 2023-Q4 - OWASP Tampa Chapter Q4 End of Year Minicon: The Future of Cybersecurity and Beyond - Sponsor - Tampa Bay ISSA Chapter and OWASP Tampa Chapter
 
 2019-Q1 - Application Security in an Ever Changing Digital Landscape -

@@ -7,41 +7,46 @@ order: 1
 tags: chapter-tampa
 ---
 
-**"OWASP Tampa Chapter 2024-Q1 Lunch and Learn"** 
+**"OWASP Tampa Chapter 2024-Q2 Lunch and Learn"** 
 
-* by: **Qwiet.AI**
+* by: **Mend**
 
 
 ![OWASP TAMPA](assets/images/owaspTampa.jpeg)
 
 **Date:**
-  - **Thursday, February 22, 2024**
+  - **Friday, June 14, 2024**
 
 **Venue:**
   * GuidePoint Security 3030 N Rocky Point Dr W, Ste 600, Tampa, FL 33607
   * Free Parking available
 
 **Time:**
-  * 11:00am to 1:00pm
+  * 11:30am to 1:00pm
 
 **Registration:**
-https://www.meetup.com/owasp-tampa/events/298757282/
+https://www.meetup.com/owasp-tampa/events/301294626/
 
-**Description:** In this bold new age of artificial intelligence, software is evolving at a blistering pace. From AI-generated code to automated devops to ingenious new AI applications, innovation is accelerating. Businesses across every industry stand to gain enormously in productivity and efficiency. However, with such great power comes great risk. As AI accelerates the pace of software innovation, it also increases the prevalence of vulnerabilities and exploits.
+**Description:** In 2023, 71% of enterprises admitted their AppSec programs were reactive, playing catch-up with vulnerability alerts -- while at the same time, applications remain the top target for threat actors. That adds up to increased business risk for a lot of companies and fuels an urgent need to improve application security strategies. But how?
+The key is to move from a compliance-based approach to managing application risk.
 
-Given that application security teams are often under-resourced and equipped with weak technologies... What can they do to manage the inevitable complexity introduced by AI? This interactive talk will lay out the escalating challenges for application security and engineering teams while offering some practical solutions.
+Join Chris Lindsey, Application Security Evangelist, for an in-depth discussion of what it takes to stop playing defense when it comes to application security. He'll wrangle over topics like:
+
+* The tell-tale signs of reactive mode
+* The value of preventative best practices
+* How to build security actions into the developer experience
+* The need for a holistic view and effective prioritization
+* Arming the security team with instant control at scale
 
 **Agenda:**
 * 11:30am - Registration and Lunch
-* 12:00pm - Speaker - Chris Hatter - Appsec in an AI-powered world
+* 12:00pm - Speaker - Chris Lindsey - From Reactive to Effective: Building Application Security that Works
 * 1:00pm - Depart
 
 ## Speakers
-**Chris Hatter** is an Operating Partner at NumberOneAI where he provides technical leadership to portfolio companies within the incubator. Additionally, Chris serves as the COO/CISO of Qwiet.AI, an AI-powered AppSec platform.
+**Chris Lindsey** is a seasoned speaker who has appeared at conferences, webinars, and private events. Currently building an online community and creating a podcast series, Chris draws on expertise from more than 15 years of direct security experience and over 35 years of experience leading teams in programming and software, solutions, and security architecture.
 
-He has over a decade of experience in cybersecurity strategies, managing threats and vulnerabilities, risk assessment, cyber resilience, legal and compliance issues, and crisis management. Prior to his current roles at N1AI and Qwiet, Chris served as the Global CISO for Nielsen, at the time, a global technology and data company that operated in over 150 countries with 80,000+ employees.
-
-Chris holds a Bachelor of Business Administration in Management Information Systems from the University of South Florida and sits on the university’s advisory board of cybersecurity for executives.
+For three years, Chris built and led an entire application security program that includes the implementation of mature AppSec programs, including oversight of security processes and procedures, SAST, DAST, CSA/OSA, compliance, training, developer communication, code reviews, application inventory gathering, and risk analysis.
 
 
 ## Location
