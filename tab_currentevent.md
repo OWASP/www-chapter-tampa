@@ -29,7 +29,9 @@ tags: chapter-tampa
 https://www.meetup.com/owasp-tampa/events/303088588/
 
 **Description:** 
-{Comming Soon}
+What’s in your AI code?
+
+With the rise in AI, there is more focus on Python dependency management and SCA scanning. Python's dependency management system makes it easy for developers to leave dependencies out of the manifest. This means that almost every SCA tool that relies on a manifest will be wrong. We show how leveraging program analysis techniques one can avoid the pitfalls of these so-called phantom dependencies.
 
 **Agenda:**
 * 11:00am - Registration and Lunch
