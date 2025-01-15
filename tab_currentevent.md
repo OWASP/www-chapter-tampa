@@ -8,6 +8,7 @@ tags: chapter-tampa
 ---
 
 **OWASP Tampa Chapter 2025-Jan Lunch and Learn** 
+
 **API Security Blunders: Tales from the Cyber Trenches**
 
 * by: **Traceable**
