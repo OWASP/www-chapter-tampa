@@ -9,6 +9,8 @@ tags: chapter-tampa
 
 ## Past Events and Presentation Archives
 
+2025-Q1 - API Security Blunders: Tales from the Cyber Trenche - Sponsor - Traceable and OWASP Tampa Chapter 
+
 2024-Q3 - SCA in the world of AI: With the rise in AI, there is more focus on Python dependency management and SCA scanning. - Sponsor -  Endor Labs and OWASP Tampa Chapter
 
 2024-Q2 - OWASP Tampa Chapter 2024-Q2 Lunch and Learn:  From Reactive to Effective: Building Application Security that Works - Sponsor - Mend and OWASP Tampa Chapter
