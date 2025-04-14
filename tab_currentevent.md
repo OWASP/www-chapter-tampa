@@ -7,17 +7,17 @@ order: 1
 tags: chapter-tampa
 ---
 
-**OWASP Tampa Chapter 2025-Mar Lunch and Learn** 
+**OWASP Tampa Chapter 2025-May Lunch and Learn** 
 
-**AI is here for business users. What does that mean for AppSec?**
+**Crowdsourced Security in Practice: Lessons from the Frontlines**
 
-* by: **Zenity**
+* by: **Bugcrowd**
 
 
 ![OWASP TAMPA](assets/images/owaspTampa.jpeg)
 
 **Date:**
-  - **Friday, March 28, 2025**
+  - **Friday, May 16, 2025**
 
 **Venue:**
   * 3030 N Rocky Point Drive W, Ste 600 · Tampa, FL
@@ -27,26 +27,20 @@ tags: chapter-tampa
   * 11:15am to 1:15pm
 
 **Registration:**
-https://www.meetup.com/owasp-tampa/events/306053484
+https://www.meetup.com/owasp-tampa/events/307289782
 
 **Description:** 
-AI is here for business users. What does that mean for AppSec?
+Crowdsourced Security in Practice: Lessons from the Frontlines
 
-Gone are the days when coding skills were needed to create apps, automate processes, or reduce manual tasks. With AI now embedded in tools like email, business intelligence, and app development, business users can accomplish more without relying on IT or dev teams. However, this boost in productivity can come at the expense of security if not properly managed. As Gen AI, Copilots, and Agentic AI bring users closer to technology, security teams face tough choices: limit tool usage or risk data leakage. Traditionally seen as blockers, security teams now have the chance to transform into business enablers thanks to AI.
+As threats evolve faster than ever, traditional security models struggle to keep pace. Enter crowdsourced security—a model that taps into the global hacker community to uncover vulnerabilities before adversaries do. In this session, we’ll explore how Bugcrowd is helping organizations—from startups to the federal government—scale their security programs through managed bug bounty, vulnerability disclosure, and penetration testing. We’ll walk through real-world lessons learned, common pitfalls, and how aligning with frameworks like OWASP Top 10 enhances outcomes. Whether you’re an AppSec professional, pentester, or just curious about the power of ethical hacking at scale, this session will provide insights you can take back to your own environment.
 
 **Agenda:**
 * 11:15am - Registration and Lunch
-* 12:15pm - Speaker - Chris Fago - AI is here for business users. What does that mean for AppSec?
+* 12:15pm - Speaker - Jason Mueller - Crowdsourced Security in Practice: Lessons from the Frontlines
 * 1:15pm - Depart
 
 ## Speakers
-**Chris Fago** is a cybersecurity sales guy at Zenity with a knack for pretending to be more technical than he probably should.
-
-At Zenity he's focused on helping solve the emerging security challenges tied to AI agents and low-code development—showing enterprises “How to fail at AppSec” or what didn’t work for others so they can close gaps often overlooked by traditional security tools in this new threat vector.
-
-Previously, as a founding team member of Prisma Cloud (now part of Palo Alto Networks), he helped grow it into a market-leading CNAPP. During that time, Chris worked with major U.S. brands on complex digital transformations, helping them secure their cloud migrations and maybe even picking up a thing or two about Kubernetes.
-
-Outside of work, Chris loves spending time with his family, hanging out at Atlanta’s botanical gardens and aquarium, obsessing over UFOs, and staying hopelessly devoted to Atlanta’s sports teams (despite the emotional toll they consistently deliver).
+**Jason Mueller** is a cybersecurity professional and former U.S. Navy cryptologist with over 20yrs of hands-on experience in cyber operations. Having worked across government, defense, and commercial sectors, Jason brings a unique perspective on the evolving threat landscape and how organizations can stay ahead of it. At Bugcrowd, he helps security teams harness the power of crowdsourced security to identify and remediate risk at scale. With a background rooted in operational security and a deep appreciation for the hacker mindset, Jason is passionate about helping organizations adopt modern, proactive approaches to cybersecurity that are both practical and impactful.
 
 
 ## Location
