@@ -9,6 +9,8 @@ tags: chapter-tampa
 
 ## Past Events and Presentation Archives
 
+2025-May - Crowdsourced Security in Practice: Lessons from the Frontlines - Sponsor - Bugcrowd and OWASP Tampa Chapter 
+
 2025-March - AI is here for business users. What does that mean for AppSec? - Sponsor - Zenity and OWASP Tampa Chapter 
 
 2025-Q1 - API Security Blunders: Tales from the Cyber Trenche - Sponsor - Traceable and OWASP Tampa Chapter 
