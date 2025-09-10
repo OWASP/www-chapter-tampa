@@ -17,7 +17,7 @@ tags: chapter-tampa
 ![OWASP TAMPA](assets/images/owaspTampa.jpeg)
 
 **Date:**
-  - **Friday, May 16, 2025**
+  - **Friday, September 19, 2025**
 
 **Venue:**
   * 3030 N Rocky Point Drive W, Ste 600 · Tampa, FL
@@ -27,7 +27,7 @@ tags: chapter-tampa
   * 11:15am to 1:15pm
 
 **Registration:**
-
+https://www.meetup.com/owasp-tampa/events/310962967/?isFirstPublish=true
 
 **Description:** 
 Business Logic Abuse:Technology Agnostic Mapping of Attack Types
