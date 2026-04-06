@@ -9,6 +9,8 @@ tags: chapter-tampa
 
 ## Past Events and Presentation Archives
 
+2026-Feb - Stop Chasing Ghosts and ClickBait - Sponsor - SCYTHE and OWASP Tampa Chapter 
+
 2025-Sep - Business Logic Abuse:Technology Agnostic Mapping of Attack Types - Sponsor - Wallarm and OWASP Tampa Chapter 
 
 2025-May - Crowdsourced Security in Practice: Lessons from the Frontlines - Sponsor - Bugcrowd and OWASP Tampa Chapter 
