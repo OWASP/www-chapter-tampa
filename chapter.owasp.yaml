@@ -1,0 +1,31 @@
+community:
+  - name: chapter-tampa
+    platform: slack
+    url: https://owasp.slack.com/archives/C0K646MK6
+    description: Tampa Chapter
+leaders:
+  - name: Jonathan Singer
+    email: jon.singer@owasp.org
+    github: JonathanSinger
+  - name: Nestor Torres
+    email: nestor.torres@owasp.org
+  - name: Ryan Soper
+    email: ryan.soper@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Florida
+  city: Tampa
+  latitude: 27.9477595
+  longitude: -82.458444
+meetup_group: owasp-tampa
+name: OWASP Tampa
+repositories:
+  - name: www-chapter-tampa
+    url: https://github.com/OWASP/www-chapter-tampa
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-tampa
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-tampa
