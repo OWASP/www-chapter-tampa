@@ -7,17 +7,17 @@ order: 1
 tags: chapter-tampa
 ---
 
-**OWASP Tampa Chapter 2026-April Lunch and Learn** 
+**OWASP Tampa Chapter 2026-August Lunch and Learn** 
 
-**10,000 Lines Before Lunch**
+**Process Rigor in the age of AI**
 
-* by: **Aikido Security**
+* by: **Black DUck**
 
 
 ![OWASP TAMPA](assets/images/owaspTampa.jpeg)
 
 **Date:**
-  - **Friday, April 24, 2026**
+  - **Friday, August 21, 2026**
 
 **Venue:**
   * 3030 N Rocky Point Drive W, Ste 600 · Tampa, FL
@@ -27,20 +27,21 @@ tags: chapter-tampa
   * 11:30am to 1:30pm
 
 **Registration:**
-https://www.meetup.com/owasp-tampa/events/314147086/
+Meetup Link Coming soon
 
 **Description:** 
-10,000 Lines Before Lunch
+Process Rigor in the age of AI
 
-Your devs are piling on 10k lines before lunch. This is the world we live in. What do you do about it?
+Attacker attention used to be a scarce resource. That scarcity quietly subsidized the SSDLC of every organization that wasn't safety-critical.  Attention is becoming abundant and subsidized with tokens forcing reconsideration of triage criteria and weakness processes.
 
 **Agenda:**
 * 11:30am - Registration and Lunch
-* 12:30pm - Speaker - Damien DeHart - 10,000 Lines Before Lunch
+* 12:30pm - Speaker - Ed Tice - Process Rigor in the age of AI
 * 1:30pm - Depart
 
 ## Speakers
-**Damien DeHart** comes with a background in Enterprise Observability/Performance Management, where he was a major contributor to New Relic's Observability Maturity Architecture (OMA). Currently working as a Senior Solutions Consultant at Aikido Security, his current role is focused assisting clients with their Vulnerability Management strategy.
+**Ed Tice** is a computer scientist whose graduate research focused on monomorphic promotion of virtual call sites for improved static analysis fidelity.  He has worked in both software development and in application security with two decades of experience specifically in applying static analysis to software development lifecycles.
+
 
 
 ## Location
