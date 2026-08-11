@@ -27,7 +27,7 @@ tags: chapter-tampa
   * 11:30am to 1:30pm
 
 **Registration:**
-Meetup Link Coming soon
+https://www.meetup.com/owasp-tampa/events/316072459/
 
 **Description:** 
 Process Rigor in the age of AI
